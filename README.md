@@ -17,8 +17,8 @@
 <a href="https://swift-lotus-28d.notion.site/b443e25b3832424b8e7f0360f9150ad5">포트폴리오 보러가기</a>
 <br/><br/>  
 
+[<img src="http://mazassumnida.wtf/api/generate_badge?boj=dhalsdyd2" alt="solved.ac">](https://solved.ac/profile/dhalsdyd2) <br/>
 [![dhalsdyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhalsdyd)](https://github.com/anuraghazra/github-readme-stats)
-
 </div> 
 
 
