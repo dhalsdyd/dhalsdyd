@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-33EEFF?style=flat-square&logo=flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-B7410E?style=flat-square&logo=kotlin&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JS-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-AF33FF?style=flat-square&logo=figma&logoColor=white"/></a>
