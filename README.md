@@ -1,4 +1,3 @@
-<img width="1512" alt="image" src="https://github.com/dhalsdyd/dhalsdyd/assets/60055699/1405bd4b-e056-4d0b-91bb-c362b1f5cd3a">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME&fontSize=50&animation=fadeIn&fontAlignY=34">
 
@@ -19,6 +18,7 @@
 <a href="https://swift-lotus-28d.notion.site/b443e25b3832424b8e7f0360f9150ad5">포트폴리오 보러가기</a>
 <br/><br/>  
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65654f2b5145316d25815122?variant=dark)](https://roadmap.sh)
+<br/><br/>  
 [<img src="http://mazassumnida.wtf/api/generate_badge?boj=dhalsdyd2" alt="solved.ac">](https://solved.ac/profile/dhalsdyd2) <br/>
 [![dhalsdyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhalsdyd)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
